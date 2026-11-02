@@ -1,0 +1,43 @@
+{
+    "version": "1.0.1",
+    "data": {
+        "paths": [
+            "MainScene.scene",
+            "TelegramManager.ts",
+            "src",
+            "src\\pieces",
+            "src\\board",
+            "src\\core",
+            "src\\ui",
+            "src\\pieces\\PieceDefinition.ts",
+            "src\\pieces\\PieceRegistry.ts",
+            "src\\board\\Board.ts",
+            "src\\rules",
+            "src\\rules\\MoveCalculator.ts",
+            "src\\rules\\SpecialRules.ts",
+            "src\\rules\\RuleValidator.ts",
+            "src\\core\\FENParser.ts",
+            "src\\core\\ChessEngine.ts",
+            "src\\ui\\BoardController.ts",
+            "src\\interfaces",
+            "src\\interfaces\\IMove.ts",
+            "src\\interfaces\\IPieceDefinition.ts",
+            "src\\interfaces\\IPieceState.ts",
+            "src\\interfaces\\IVector.ts",
+            "images",
+            "images\\WR1.png",
+            "images\\WQ1.png",
+            "images\\WK1.png",
+            "images\\WB1.png",
+            "images\\BR1.png",
+            "images\\BQ1.png",
+            "images\\BK1.png",
+            "images\\BB1.png",
+            "src\\ui\\PromotionDialog.ts",
+            "images\\BKi1.png",
+            "images\\BP1.png",
+            "images\\WKi1.png",
+            "images\\WP1.png"
+        ]
+    }
+}

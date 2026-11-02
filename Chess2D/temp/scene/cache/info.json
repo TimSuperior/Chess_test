@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i5-14450HX",
+        "version": "Windows 11 Pro"
+    },
+    "sceneListMap": {
+        "326b41b4-1716-4d13-b822-bcc188cfd025": "D:\\Cocos\\Projects\\Chess2D\\assets\\MainScene.scene"
+    },
+    "deviceMd5": "b9f11e4203fd32fa997a1278c6193b53"
+}

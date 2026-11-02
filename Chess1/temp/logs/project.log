@@ -1,0 +1,16 @@
+9-19-2026 05:49:20 - log: Load engine in D:\Cocos\editors\Creator\3.8.8\resources\resources\3d\engine
+9-19-2026 05:49:21 - log: Register native engine in D:\Cocos\editors\Creator\3.8.8\resources\resources\3d\engine\native
+9-19-2026 05:49:22 - log: Request namespace: device-list
+9-19-2026 05:50:20 - log: [Scene] meshopt wasm decoder initialized
+9-19-2026 05:50:20 - log: [Scene] [bullet]:bullet wasm lib loaded.
+9-19-2026 05:50:20 - log: [Scene] [box2d]:box2d wasm lib loaded.
+9-19-2026 05:50:20 - log: [Scene] [PHYSICS]: using builtin.
+9-19-2026 05:50:20 - log: [Scene] Cocos Creator v3.8.8
+9-19-2026 05:50:20 - log: [Scene] Using custom pipeline: Builtin
+9-19-2026 05:50:20 - log: [Scene] [PHYSICS]: switch from builtin to bullet.
+9-19-2026 05:50:20 - log: [Scene] [PHYSICS2D]: switch from builtin to box2d.
+9-19-2026 06:37:09 - warn: Object has been destroyedTypeError: Object has been destroyed
+    at WebContents._.send (node:electron/js2c/browser_init:2:74130)
+    at WindowSender.immediately (D:\Cocos\editors\Creator\3.8.8\resources\app.asar\node_modules\@base\electron-base-ipc\dist\sender.ccc:1:2082)
+    at Immediate._onImmediate (D:\Cocos\editors\Creator\3.8.8\resources\app.asar\node_modules\@base\electron-base-ipc\dist\sender.ccc:1:2008)
+    at processImmediate (node:internal/timers:478:21)

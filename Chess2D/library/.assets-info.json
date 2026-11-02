@@ -1,0 +1,258 @@
+{
+  "version": "1.0.1",
+  "map": {
+    "MainScene.scene.meta": {
+      "time": 1789817984736.7473
+    },
+    "MainScene.scene": {
+      "time": 1789835779496.877,
+      "uuid": "326b41b4-1716-4d13-b822-bcc188cfd025"
+    },
+    "TelegramManager.ts.meta": {
+      "time": 1789818934173.9963
+    },
+    "TelegramManager.ts": {
+      "time": 1789819099915.6038,
+      "uuid": "72ba0173-3c4d-4087-95b4-c5cb8a6b29fa"
+    },
+    "src.meta": {
+      "time": 1789820053372.2104
+    },
+    "src": {
+      "time": 1789821728099.4036,
+      "uuid": "e3e563c3-66fb-4145-9aa0-73f89f3277fb"
+    },
+    "src\\pieces.meta": {
+      "time": 1789820113659.0454
+    },
+    "src\\pieces": {
+      "time": 1789820531343.3691,
+      "uuid": "4cf65a82-7f3d-40d7-acc7-3149e4ddbb08"
+    },
+    "src\\board.meta": {
+      "time": 1789820122281.5679
+    },
+    "src\\board": {
+      "time": 1789820642337.5496,
+      "uuid": "d0cf765a-ffb9-4de7-ae0f-116667ae296d"
+    },
+    "src\\core.meta": {
+      "time": 1789820135361.7705
+    },
+    "src\\core": {
+      "time": 1789820778329.7253,
+      "uuid": "4c0af4b0-4632-43ae-9aa5-da72a6546c51"
+    },
+    "src\\ui.meta": {
+      "time": 1789820142139.0085
+    },
+    "src\\ui": {
+      "time": 1789832676625.75,
+      "uuid": "ef84d670-e620-42cc-afd8-2f1b0eadbe7f"
+    },
+    "src\\pieces\\PieceDefinition.ts.meta": {
+      "time": 1789820521169.5027
+    },
+    "src\\pieces\\PieceDefinition.ts": {
+      "time": 1789822009396.5544,
+      "uuid": "490bd942-19b5-4e90-97b4-272a70d16315"
+    },
+    "src\\pieces\\PieceRegistry.ts.meta": {
+      "time": 1789820531354.9539
+    },
+    "src\\pieces\\PieceRegistry.ts": {
+      "time": 1789822028889.1873,
+      "uuid": "ecfcae58-3d2c-4923-b859-e1834476ad4e"
+    },
+    "src\\board\\Board.ts.meta": {
+      "time": 1789820642347.6294
+    },
+    "src\\board\\Board.ts": {
+      "time": 1789821988469.9243,
+      "uuid": "4ae1c763-ebd7-4f5a-8496-1e152aa3e93a"
+    },
+    "src\\rules.meta": {
+      "time": 1789820673409.4192
+    },
+    "src\\rules": {
+      "time": 1789820723869.356,
+      "uuid": "df9997a2-df06-44e3-a966-63015f5efae0"
+    },
+    "src\\rules\\MoveCalculator.ts.meta": {
+      "time": 1789820659036.4424
+    },
+    "src\\rules\\MoveCalculator.ts": {
+      "time": 1789822078064.4934,
+      "uuid": "be1fde83-f0da-4c26-8f5e-18d1b2dcfb33"
+    },
+    "src\\rules\\SpecialRules.ts.meta": {
+      "time": 1789820673411.4302
+    },
+    "src\\rules\\SpecialRules.ts": {
+      "time": 1789822101636.1462,
+      "uuid": "529ef60f-11a4-464d-b3b9-b69a0402c403"
+    },
+    "src\\rules\\RuleValidator.ts.meta": {
+      "time": 1789820723878.5806
+    },
+    "src\\rules\\RuleValidator.ts": {
+      "time": 1789822112505.8923,
+      "uuid": "2ff79ea4-4f10-431e-bbbe-703e275cb882"
+    },
+    "src\\core\\FENParser.ts.meta": {
+      "time": 1789820769182.793
+    },
+    "src\\core\\FENParser.ts": {
+      "time": 1789822120452.8035,
+      "uuid": "c6d21d25-b0a5-400b-b816-0eae116273fa"
+    },
+    "src\\core\\ChessEngine.ts.meta": {
+      "time": 1789820778338.3584
+    },
+    "src\\core\\ChessEngine.ts": {
+      "time": 1789822134564.8875,
+      "uuid": "b82d4df0-a745-4e9f-b44c-f2ae3d24aa8e"
+    },
+    "src\\ui\\BoardController.ts.meta": {
+      "time": 1789820791036.767
+    },
+    "src\\ui\\BoardController.ts": {
+      "time": 1789835361568.0952,
+      "uuid": "b361ee54-dc81-4387-8be3-66dbc39d0439"
+    },
+    "src\\interfaces.meta": {
+      "time": 1789820103036.5864
+    },
+    "src\\interfaces": {
+      "time": 1789820446432.1013,
+      "uuid": "4c878842-6360-4f32-8cd7-2d6534011004"
+    },
+    "src\\interfaces\\IMove.ts.meta": {
+      "time": 1789820446441.2078
+    },
+    "src\\interfaces\\IMove.ts": {
+      "time": 1789820467176.0137,
+      "uuid": "b64a5679-b9ce-490d-9b1e-484d7802fa6f"
+    },
+    "src\\interfaces\\IPieceDefinition.ts.meta": {
+      "time": 1789820309545.8733
+    },
+    "src\\interfaces\\IPieceDefinition.ts": {
+      "time": 1789820367627.5613,
+      "uuid": "73bab42f-69f4-4a55-9239-2d6ea99e8889"
+    },
+    "src\\interfaces\\IPieceState.ts.meta": {
+      "time": 1789820387654.8547
+    },
+    "src\\interfaces\\IPieceState.ts": {
+      "time": 1789820406301.8748,
+      "uuid": "425cbf63-3613-4ea1-b015-c30de4c8cd8d"
+    },
+    "src\\interfaces\\IVector.ts.meta": {
+      "time": 1789820232894.9463
+    },
+    "src\\interfaces\\IVector.ts": {
+      "time": 1789820263311.0718,
+      "uuid": "bd0be8ee-e167-4ebb-a28a-eead5d5ac611"
+    },
+    "images.meta": {
+      "time": 1789832343743.8215
+    },
+    "images": {
+      "time": 1789835087593.8257,
+      "uuid": "9d889cfd-15ac-47ee-bec8-096e07fd17ce"
+    },
+    "images\\WR1.png.meta": {
+      "time": 1789832376984.9683
+    },
+    "images\\WR1.png": {
+      "time": 1789828200273.0605,
+      "uuid": "54121aa6-2bbf-4205-9632-8e68d98104ed"
+    },
+    "images\\WQ1.png.meta": {
+      "time": 1789832377184.1812
+    },
+    "images\\WQ1.png": {
+      "time": 1789828169882.6667,
+      "uuid": "07ec2c57-3a72-439b-8a56-de5d67706aa8"
+    },
+    "images\\WK1.png.meta": {
+      "time": 1789832377274.8037
+    },
+    "images\\WK1.png": {
+      "time": 1789828131259.5078,
+      "uuid": "ad9ca638-831c-483a-95d9-7c7650a729cc"
+    },
+    "images\\WB1.png.meta": {
+      "time": 1789832377322.7754
+    },
+    "images\\WB1.png": {
+      "time": 1789828095278.1055,
+      "uuid": "1a908ba7-b875-4975-8343-a818c221f82f"
+    },
+    "images\\BR1.png.meta": {
+      "time": 1789832377427.1538
+    },
+    "images\\BR1.png": {
+      "time": 1789828055828.5908,
+      "uuid": "0cb7517f-4867-4009-9a12-da7f2055e040"
+    },
+    "images\\BQ1.png.meta": {
+      "time": 1789832377533.6333
+    },
+    "images\\BQ1.png": {
+      "time": 1789827996000.6853,
+      "uuid": "4b970b53-26de-4d80-89ed-b341bae11ce8"
+    },
+    "images\\BK1.png.meta": {
+      "time": 1789832377661.1118
+    },
+    "images\\BK1.png": {
+      "time": 1789827943492.4744,
+      "uuid": "ad33c87a-d2f6-4b60-8426-255d59d3479c"
+    },
+    "images\\BB1.png.meta": {
+      "time": 1789832377750.342
+    },
+    "images\\BB1.png": {
+      "time": 1789827882619.8955,
+      "uuid": "018d7ba8-ec6c-49b3-b83d-e09361dd8896"
+    },
+    "src\\ui\\PromotionDialog.ts.meta": {
+      "time": 1789832676628.26
+    },
+    "src\\ui\\PromotionDialog.ts": {
+      "time": 1789832758769.3196,
+      "uuid": "cab22560-1389-4913-9e15-cb29b73e84f6"
+    },
+    "images\\BKi1.png.meta": {
+      "time": 1789835081993.0767
+    },
+    "images\\BKi1.png": {
+      "time": 1789835051937.2043,
+      "uuid": "b1150154-be4a-4ef4-a8a0-2d55c3215f86"
+    },
+    "images\\BP1.png.meta": {
+      "time": 1789835082159.1672
+    },
+    "images\\BP1.png": {
+      "time": 1789835006364.2446,
+      "uuid": "e72db48a-3485-4124-8771-a47e50d6b90d"
+    },
+    "images\\WKi1.png.meta": {
+      "time": 1789835082272.788
+    },
+    "images\\WKi1.png": {
+      "time": 1789834891966.211,
+      "uuid": "ce19cece-92a4-48a8-962b-5b06d89113e6"
+    },
+    "images\\WP1.png.meta": {
+      "time": 1789835087641.7388
+    },
+    "images\\WP1.png": {
+      "time": 1789834837859.3342,
+      "uuid": "cd274940-b8c3-466c-b119-ae142d102a8e"
+    }
+  },
+  "missing": {}
+}
